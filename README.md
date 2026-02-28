@@ -47,16 +47,16 @@ server.port=8082
 ```
 4. Run the backend:
 ```bash
-**mvn spring-boot:run** 
+- **mvn spring-boot:run** 
 
 Backend runs on **http://localhost:8082**
 
 ## Frontend Setup
 1. Navigate to `/frontend`
 2. Install dependencies:
-```bash
-npm install
-```
+bash
+- **npm install**
+
 3. Run the frontend:
 ```bash
 npm run dev
